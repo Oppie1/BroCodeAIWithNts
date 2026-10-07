@@ -9,7 +9,7 @@ int main() {
 	// Declare 11 integer variables named studentsClass1 through studentsClass11,
 	// each 8initialized to a value that by 5 from the previous one.
 	//CODE:
-	int students = 20;
+	int studentsClass1 = 20;
 	int studentsClass2 = 23;
 	int studentsClass3 = 25;
 
@@ -32,10 +32,10 @@ int main() {
 	//Declare an int variable named remainder and intialize it to 99.
 	int remainder = 99;
 
-	//Reassign remainder to the result of students modulo 2.
+	//Reassign remainder to the result of studentsClass1 modulo 2.
 	// The modulus operator (%) gives you the leftover value after division.
 	//CODE:
-	remainder = students % 2;
+	remainder = studentsClass1 % 2;
 
 	//Print the value of remainder to the console.
 	//Since 20 divides evenly by, the result will be 0.
