@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_BroCodeRepo\C++\PracticeWithAI\AIWithNts\30.BroCodRckPapSciGamAiNts\30.BroCodRckPapSciGamAiNts\main.cpp(110,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\atind\OneDrive\Desktop\1_BroCodeRepo\C++\PracticeWithAI\AIWithNts\30.BroCodRckPapSciGamAiNts\30.BroCodRckPapSciGamAiNts\main.cpp(121,1): warning C4715: 'getComputerChoice': not all control paths return a value
+  30.BroCodRckPapSciGamAiNts.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_BroCodeRepo\C++\PracticeWithAI\AIWithNts\30.BroCodRckPapSciGamAiNts\x64\Debug\30.BroCodRckPapSciGamAiNts.exe
